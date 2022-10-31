@@ -1,4 +1,4 @@
-# CMYK_color_printing
+
 
 3
 Home
